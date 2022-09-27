@@ -1,0 +1,7 @@
+# Languages: e.g. en, zh_CN
+language: "en"
+
+authKey: you_should_change_this
+
+ktor:
+  port: 65361

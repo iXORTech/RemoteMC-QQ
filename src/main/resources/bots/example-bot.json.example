@@ -1,0 +1,8 @@
+{
+    "component": "simbot.mirai",
+    "code": QQ号,
+    "passwordInfo": {
+        "type": "text",
+        "text": "QQ密码"
+    }
+}
