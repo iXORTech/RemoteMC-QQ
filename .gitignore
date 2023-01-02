@@ -55,3 +55,6 @@ bin/
 
 ### Local Cache ###
 /cache
+
+### Private ###
+device.json
