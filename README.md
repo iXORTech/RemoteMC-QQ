@@ -6,6 +6,12 @@
   <b>QQ Bot of RemoteMC Series, based on simpler-robot</b>
 </p>
 
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-AGPL--3.0--or--later-important?style=for-the-badge" />
+  </a>
+</p>
+
 RemoteMC-QQ is a component of RemoteMC Series. Learn more about this whole set of software and what it can do at
 [here](https://github.com/iXORTech/RemoteMC-Core/blob/main/README.md).
 

@@ -6,6 +6,12 @@
   <b>RemoteMC 系列 QQ 机器人模块，基于 simpler-robot 开发</b>
 </p>
 
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-AGPL--3.0--or--later-important?style=for-the-badge" />
+  </a>
+</p>
+
 RemoteMC-QQ 是 RemoteMC 系列软件的一部分。要更详细的了解这些软件以及它们能做什么，请参考
 [这里](https://github.com/iXORTech/RemoteMC-Core/blob/main/README-zh.md)。
 
